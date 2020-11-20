@@ -1,6 +1,5 @@
 
-'''This programme only runs in python virtual enviroment so make sure to set your intrepreter to virtual python enviromnent'''
-
+'''01001011 01000001 01010101 01010011 01001000 01001001 01001011 00100000 01000111 01010101 01010000 01010100 01000001'''
 # '''import all modules needed'''
 from tkinter import Button, Label, Listbox, PhotoImage, Tk ,Text  
 from tkinter.constants import ACTIVE, END, SINGLE
